@@ -1,0 +1,16 @@
+{
+    "name": "nightmarejs-demo",
+    "version": "1.0.3",
+    "description": "Demo for basic nightmare js",
+    "bin": {
+        "course-list-generator": "nightmarejs-demo"
+    },
+    "preferGlobal": true,
+    "author": "Joshua McKinney",
+    "license": "MIT",
+    "dependencies": {
+        "nightmare": "^2.9.1",
+        "nightmare-helpers": "git+https://github.com/byuicampuscd/nightmare-helpers.git",
+        "prompt": "^1.0.0"
+    }
+}
