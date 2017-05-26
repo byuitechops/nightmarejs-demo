@@ -6,8 +6,6 @@
         "course-list-generator": "nightmarejs-demo"
     },
     "preferGlobal": true,
-    "author": "Joshua McKinney",
-    "license": "MIT",
     "dependencies": {
         "nightmare": "^2.9.1",
         "nightmare-helpers": "git+https://github.com/byuicampuscd/nightmare-helpers.git",
@@ -25,5 +23,7 @@
     "bugs": {
         "url": "https://github.com/byuitechops/nightmarejs-demo/issues"
     },
-    "homepage": "https://github.com/byuitechops/nightmarejs-demo#readme"
+    "homepage": "https://github.com/byuitechops/nightmarejs-demo#readme",
+    "author": "Joshua McKinney",
+    "license": "MIT"
 }
